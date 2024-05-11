@@ -3,7 +3,7 @@
 Parkinson's disease (PD) is the second most common progressive neurodegenerative disease. PD symptoms include tremor, rigidity, cognitive impairment, and gastrointestinal issues. Diagnosing PD often relies on medical observations of motor symptoms, but in cases of early non-motor symptoms, subtle and mild symptoms might be overlooked. The aim of this project is to implement a machine learning model to try and predict whether a patient has PD or not based on speech features.
 ### **Dataset overview:**
 The dataset used in this project was obtained from the following Kaggle link: https://www.kaggle.com/datasets/dipayanbiswas/parkinsons-disease-speech-signal-features/data
-This dataset consists of various speech signal features extracted from patients with PD and healthy individuals. The target variable ‘class’ indicates the presence (1) or absence (2) of PD. It consists of 756 rows and 755 columns. While it does not have duplicate values or missing data, it has highly correlated features and the data is also imbalanced.
+This dataset consists of various speech signal features extracted from patients with PD and healthy individuals. The target variable ‘class’ indicates the presence (1) or absence (0) of PD. It consists of 756 rows and 755 columns. While it does not have duplicate values or missing data, it has highly correlated features and the data is also imbalanced.
 ### **Quick video demonstration:**
 
 ### **Steps:**
