@@ -11,10 +11,13 @@ This dataset consists of various speech signal features extracted from patients 
 * Importing the dataset
 * Exploring the dataset & its features
 * EDA & data visualization
+..* This step showed that the data is imbalanced and contains highly correlated features
 * Removing highly correlated features
 * Balancing the data
 * Separating features, splitting the dataset, & feature scaling
 * Training and comparing between two different models (SVM RBF & Logistic regression)
+..* SVM RBF accuracy: 90.2%
+..* Logistic regression: 91.1%
 ### Results:
 While both SVM RBF and logistic regression performed good, logistic regression performed slightly better than SVM RBF, with 91.1% accuracy and 90.2% accuracy, respectively. Both models achieved a high F1 score, again, logistic regression has a slightly higher score than SVM RBF. Overall, logistic regression outperformed SVM RBF in all evaluation metrics used in this project.
 ### Limitations:
