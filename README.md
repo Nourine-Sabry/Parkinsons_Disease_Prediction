@@ -20,6 +20,7 @@ http://192.168.137.249:8502/
 * Training and comparing between two different models (SVM RBF & Logistic regression)
   * SVM RBF accuracy: 90.2%
   * Logistic regression: 91.1%
+* Model deployment using streamlit
 ### Results:
 While both SVM RBF and logistic regression performed good, logistic regression performed slightly better than SVM RBF, with 91.1% accuracy and 90.2% accuracy, respectively. Both models achieved a high F1 score, again, logistic regression has a slightly higher score than SVM RBF. Overall, logistic regression outperformed SVM RBF in all evaluation metrics used in this project.
 ### Limitations:
