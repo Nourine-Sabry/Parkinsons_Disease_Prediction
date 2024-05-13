@@ -6,6 +6,8 @@ The dataset used in this project was obtained from the following Kaggle link: ht
 This dataset consists of various speech signal features extracted from patients with PD and healthy individuals. The target variable ‘class’ indicates the presence (1) or absence (0) of PD. It consists of 756 rows and 755 columns. While it does not have duplicate values or missing data, it has highly correlated features and the data is also imbalanced.
 ### **Quick video demonstration:**
 
+### **Streamlit link**
+http://192.168.137.249:8502/
 ### **Steps:**
 * Importing libraries
 * Importing the dataset
