@@ -7,7 +7,7 @@ This dataset consists of various speech signal features extracted from patients 
 ### **Quick video demonstration:**
 
 ### **Streamlit link**
-http://192.168.137.249:8502/
+http://192.168.51.35:8501/
 ### **Steps:**
 * Importing libraries
 * Importing the dataset
